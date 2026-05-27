@@ -2,11 +2,12 @@
 
 ### An AI Architect & Computer Science Undergraduate
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anushka-Sharma-tech" alt="Anushka-Sharma-tech" /></a> </p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=Anushka-Sharma-tech&theme=radical&margin-w=15)
 
-- 🔭 I'm currently working on **Grasping basic language agnostic algorithms which serve as the fundamentals of programming 
-Building projects like AetherKV using Ubuntu for volatile storage refactoring 
-Using AI tools proficiently**
+- 🔭 I'm currently working on:
+  - **Grasping basic language-agnostic algorithms** which serve as the fundamentals of programming.
+  - **Building core projects like AetherKV** using Ubuntu for volatile storage refactoring.
+  - **Mastering AI tools** for proficient, high-velocity engineering.
 
 - 🌱 I'm currently learning **DSA , C++ , Version Control , Memory management , real life usage of technological frameworks**
 
