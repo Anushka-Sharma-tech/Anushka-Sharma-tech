@@ -2,7 +2,7 @@
 
 ### An AI Architect & Computer Science Undergraduate
 
-![Anushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anushka-Sharma-tech&show_icons=true&theme=radical&hide_border=true)
+![Anushka's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anushka-Sharma-tech&theme=radical&hide_border=true)
 
 - 🔭 I'm currently working on:
   - **Grasping basic language-agnostic algorithms** which serve as the fundamentals of programming.
