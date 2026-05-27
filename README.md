@@ -29,7 +29,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anushka-Sharma-tech&" alt="Anushka-Sharma-tech" /></p>
+
 
 
 
