@@ -1,8 +1,7 @@
 # Hi , I'm Anushka Sharma
 
 ### An AI Architect & Computer Science Undergraduate
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Anushka-Sharma-tech&theme=dark)](https://git.io/streak-stats)
+[![Anushka's GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Anushka-Sharma-tech&theme=dark)](https://github.com/Anushka-Sharma-tech)
 
 
 - 🔭 I'm currently working on:
