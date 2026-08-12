@@ -2,7 +2,7 @@
 
 ### An AI Architect & Computer Science Undergraduate
 
-[![Anushka's GitHub Streak](https://streak-stats.demolab.com/?user=Anushka-Sharma-tech)](https://git.io/streak-stats)
+[![Anushka's GitHub Streak](https://github-readme-streak-vercel.vercel.app/?user=Anushka-Sharma-tech&theme=dark)](https://git.io/streak-stats)
 
 
 - 🔭 I'm currently working on:
