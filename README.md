@@ -11,8 +11,6 @@
 
 - 🌱 I'm currently learning **DSA , C++ , Version Control , Memory management , real life usage of technological frameworks**
 
-- 👯 I'm looking to collaborate on **open source projects **
-
 - 🤝 I'm looking for help with **learning AI security and cryptography **
 
 - 📫 How to reach me **anushkasharmatech08@gmail.com**
