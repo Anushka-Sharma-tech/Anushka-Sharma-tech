@@ -6,7 +6,6 @@
 
 - 🔭 I'm currently working on:
   - **Grasping basic language-agnostic algorithms** which serve as the fundamentals of programming.
-  - **Building core projects like AetherKV** using Ubuntu for volatile storage refactoring.
   - **Mastering AI tools** for proficient, high-velocity engineering.
 
 - 🌱 I'm currently learning **DSA , C++ , Version Control , Memory management , real life usage of technological frameworks**
