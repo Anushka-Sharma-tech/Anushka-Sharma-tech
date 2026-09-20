@@ -8,7 +8,7 @@
   - **Grasping basic language-agnostic algorithms** which serve as the fundamentals of programming.
   - **Mastering AI tools** for proficient, high-velocity engineering.
 
-- 🌱 I'm currently learning **DSA , C++ , Version Control , Memory management , real life usage of technological frameworks**
+- 🌱 I'm currently learning **DSA , C++ , Python , Version Control , Memory management , real life usage of technological frameworks**
 
 - 🤝 I'm looking for help with **learning AI security and cryptography **
 
