@@ -7,10 +7,11 @@
 - 🔭 I'm currently working on:
   - **Grasping basic language-agnostic algorithms** which serve as the fundamentals of programming.
   - **Mastering AI tools** for proficient, high-velocity engineering.
+  - **Pursuing AI and Machine Learning** for proficient, future-relevant engineering.
 
-- 🌱 I'm currently learning **DSA , C++ , Python , Version Control , Memory management , real life usage of technological frameworks**
+- 🌱 I'm currently learning **DSA , Python , Version Control , Machine Learning , cloud , real life usage of technological frameworks**
 
-- 🤝 I'm looking for help with **learning AI security and cryptography **
+- 🤝 I would appreciate guidance with **learning AI research and problem solving **
 
 - 📫 How to reach me **anushkasharmatech08@gmail.com**
 
@@ -22,7 +23,27 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
+<p align="left">
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
+</a>
+</p>
+
 
 
 
